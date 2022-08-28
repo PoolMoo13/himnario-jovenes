@@ -1,0 +1,1 @@
+export const GET_HYMN = "GET_HYMN"
